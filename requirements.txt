@@ -1,0 +1,5 @@
+torch
+torchaudio 
+soundfile 
+sentencepiece
+git+https://github.com/huggingface/transformers.git
